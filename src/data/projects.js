@@ -35,7 +35,7 @@ const data = [
       'API',
     ],
     link: '/',
-    github: 'https://github.com/Sonthep/nextjs-portfolio',
+    github: 'https://github.com/Sonthep/nextjs-portfolioV1',
   },
   {
     title: 'ThepAPI',
