@@ -12,7 +12,7 @@ import { Fragment, useEffect, useRef } from 'react'
 
 import { BsSun, BsMoon, BsChevronDown } from 'react-icons/bs'
 const Download= () => {
-  const resumePdfUrl = 'https://raw.githubusercontent.com/Sonthep/pdf_file/main/Resume.pdf';
+  const resumePdfUrl = 'https://raw.githubusercontent.com/Sonthep/pdf_file/main/Resume%20(2).pdf';
   return <DownloadLink pdfUrl={resumePdfUrl} displayText="Resume PDF"/>;
 }
 
